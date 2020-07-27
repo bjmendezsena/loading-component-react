@@ -1,0 +1,24 @@
+{
+  "name": "loading_component",
+  "version": "1.0.0",
+  "description": "Icono dinamico de loading para react",
+  "main": "LoadingComponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjmendezsena/loading-component-react.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "react-plugin"
+  ],
+  "author": "Briaulin Mendez Sena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjmendezsena/loading-component-react/issues"
+  },
+  "homepage": "https://github.com/bjmendezsena/loading-component-react#readme"
+}
